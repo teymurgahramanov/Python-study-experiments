@@ -1,2 +1,1 @@
-# luckynumber
-Luckynumber game
+
